@@ -1,0 +1,8 @@
+{
+  "name": "advanced-static-types",
+  "packageManager": "yarn@3.2.4",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/index"
+  }
+}
